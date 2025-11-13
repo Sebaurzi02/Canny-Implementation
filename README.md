@@ -1,3 +1,2 @@
-# Canny-Implementation
-An implementation of Canny Edge Detection Algorithm in Python
+#Implementation
 Work in Progress......
